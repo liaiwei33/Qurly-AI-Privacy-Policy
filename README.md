@@ -2,8 +2,12 @@
 
 Public repository hosting the [Qurly](https://github.com/liaiwei33/trivia) app privacy policy for App Store Connect and other store listings.
 
-**Live URL (after GitHub Pages is enabled):**  
-https://liaiwei33.github.io/Qurly-AI-Privacy-Policy/
+**Live URLs (after GitHub Pages is enabled on `main` / root):**
+
+| Purpose | URL |
+|---------|-----|
+| Privacy Policy (App Store) | https://liaiwei33.github.io/Qurly-AI-Privacy-Policy/ |
+| Support (App Store) | https://liaiwei33.github.io/Qurly-AI-Privacy-Policy/support.html |
 
 ## Enable GitHub Pages (one time)
 
